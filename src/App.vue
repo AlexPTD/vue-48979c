@@ -15,7 +15,7 @@
       />
       <br />
       <!-- Form is sent  -->
-      <button type="submit" @click.prevent="submitForm">asd</button>
+      <button type="submit" @click.prevent="submitForm">Submit</button>
     </form>
   </div>
 </template>
